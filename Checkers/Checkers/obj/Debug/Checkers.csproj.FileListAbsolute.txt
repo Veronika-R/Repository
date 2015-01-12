@@ -1,5 +1,16 @@
-E:\oldVersion\New folder\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
-E:\oldVersion\New folder\Checkers\Checkers\bin\Debug\Checkers.dll
-E:\oldVersion\New folder\Checkers\Checkers\bin\Debug\Checkers.pdb
-E:\oldVersion\New folder\Checkers\Checkers\obj\Debug\Checkers.dll
-E:\oldVersion\New folder\Checkers\Checkers\obj\Debug\Checkers.pdb
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\bin\Debug\Checkers.dll
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\bin\Debug\Checkers.pdb
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\oldVersion\New folder\Checkers\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers\bin\Debug\ConsoleApplication1.exe.config
+E:\Dev\GitHub\Repository\Checkers\Checkers\bin\Debug\ConsoleApplication1.exe
+E:\Dev\GitHub\Repository\Checkers\Checkers\bin\Debug\ConsoleApplication1.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers\bin\Debug\Checkers.Model.dll
+E:\Dev\GitHub\Repository\Checkers\Checkers\bin\Debug\Checkers.Model.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers\obj\Debug\Checkers.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\Repository\Checkers\Checkers\obj\Debug\ConsoleApplication1.exe
+E:\Dev\GitHub\Repository\Checkers\Checkers\obj\Debug\ConsoleApplication1.pdb

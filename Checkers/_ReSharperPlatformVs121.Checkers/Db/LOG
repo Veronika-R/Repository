@@ -1,115 +1,26 @@
-2015/01/10-14:02:30.538 144 Delete type=3 #1
-2015/01/10-15:44:27.739 9b64 Level-0 table #5: started
-2015/01/10-15:44:27.898 9b64 Level-0 table #5: 3116462 bytes OK
-2015/01/10-15:44:27.912 9b64 Delete type=0 #3
-2015/01/10-19:04:53.541 9b64 Level-0 table #7: started
-2015/01/10-19:04:53.761 9b64 Level-0 table #7: 2127990 bytes OK
-2015/01/10-19:04:53.791 9b64 Delete type=0 #4
-2015/01/10-19:07:19.289 9b64 Compacting 1@1 + 1@2 files
-2015/01/10-19:07:19.404 9b64 Generated table #8: 196 keys, 1740350 bytes
-2015/01/10-19:07:19.404 9b64 Compacted 1@1 + 1@2 files => 1740350 bytes
-2015/01/10-19:07:19.429 9b64 Delete type=2 #5
-2015/01/10-19:07:19.429 9b64 Delete type=2 #7
-2015/01/10-19:07:19.430 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/10-19:27:24.184 9b64 Level-0 table #10: started
-2015/01/10-19:27:24.384 9b64 Level-0 table #10: 2119317 bytes OK
-2015/01/10-19:27:24.409 9b64 Delete type=0 #6
-2015/01/10-19:27:48.570 9b64 Compacting 1@1 + 1@2 files
-2015/01/10-19:27:48.677 9b64 Generated table #11: 215 keys, 1745923 bytes
-2015/01/10-19:27:48.677 9b64 Compacted 1@1 + 1@2 files => 1745923 bytes
-2015/01/10-19:27:48.702 9b64 Delete type=2 #8
-2015/01/10-19:27:48.703 9b64 Delete type=2 #10
-2015/01/10-19:27:48.703 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/10-22:40:09.957 9b64 Level-0 table #13: started
-2015/01/10-22:40:10.180 9b64 Level-0 table #13: 2287347 bytes OK
-2015/01/10-22:40:10.207 9b64 Delete type=0 #9
-2015/01/10-22:40:24.823 9b64 Compacting 1@1 + 1@2 files
-2015/01/10-22:40:24.928 9b64 Generated table #14: 225 keys, 1758486 bytes
-2015/01/10-22:40:24.928 9b64 Compacted 1@1 + 1@2 files => 1758486 bytes
-2015/01/10-22:40:24.947 9b64 Delete type=2 #11
-2015/01/10-22:40:24.948 9b64 Delete type=2 #13
-2015/01/10-22:40:24.948 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/10-23:16:07.105 9b64 Level-0 table #16: started
-2015/01/10-23:16:07.296 9b64 Level-0 table #16: 2208509 bytes OK
-2015/01/10-23:16:07.314 9b64 Delete type=0 #12
-2015/01/10-23:16:14.428 9b64 Compacting 1@1 + 1@2 files
-2015/01/10-23:16:14.600 9b64 Generated table #17: 230 keys, 1793397 bytes
-2015/01/10-23:16:14.600 9b64 Compacted 1@1 + 1@2 files => 1793397 bytes
-2015/01/10-23:16:14.613 9b64 Delete type=2 #14
-2015/01/10-23:16:14.613 9b64 Delete type=2 #16
-2015/01/10-23:16:14.614 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/10-23:39:55.808 9b64 Level-0 table #19: started
-2015/01/10-23:39:56.015 9b64 Level-0 table #19: 2270368 bytes OK
-2015/01/10-23:39:56.033 9b64 Delete type=0 #15
-2015/01/10-23:40:08.465 9b64 Compacting 1@1 + 1@2 files
-2015/01/10-23:40:08.582 9b64 Generated table #20: 241 keys, 1801934 bytes
-2015/01/10-23:40:08.582 9b64 Compacted 1@1 + 1@2 files => 1801934 bytes
-2015/01/10-23:40:08.599 9b64 Delete type=2 #17
-2015/01/10-23:40:08.599 9b64 Delete type=2 #19
-2015/01/10-23:40:08.599 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/11-00:07:18.297 9b64 Level-0 table #22: started
-2015/01/11-00:07:18.483 9b64 Level-0 table #22: 2348671 bytes OK
-2015/01/11-00:07:18.503 9b64 Delete type=0 #18
-2015/01/11-00:07:21.143 9b64 Compacting 1@1 + 1@2 files
-2015/01/11-00:07:21.234 9b64 Generated table #23: 231 keys, 1818058 bytes
-2015/01/11-00:07:21.234 9b64 Compacted 1@1 + 1@2 files => 1818058 bytes
-2015/01/11-00:07:21.261 9b64 Delete type=2 #20
-2015/01/11-00:07:21.261 9b64 Delete type=2 #22
-2015/01/11-00:07:21.262 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/11-11:43:04.228 9b64 Level-0 table #25: started
-2015/01/11-11:43:04.428 9b64 Level-0 table #25: 2664758 bytes OK
-2015/01/11-11:43:04.448 9b64 Delete type=0 #21
-2015/01/11-11:47:06.727 9b64 Compacting 1@1 + 1@2 files
-2015/01/11-11:47:06.824 9b64 Generated table #26: 280 keys, 1890953 bytes
-2015/01/11-11:47:06.824 9b64 Compacted 1@1 + 1@2 files => 1890953 bytes
-2015/01/11-11:47:06.843 9b64 Delete type=2 #23
-2015/01/11-11:47:06.843 9b64 Delete type=2 #25
-2015/01/11-11:47:06.844 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/12-13:11:41.606 9b64 Level-0 table #28: started
-2015/01/12-13:11:41.828 9b64 Level-0 table #28: 3052994 bytes OK
-2015/01/12-13:11:41.848 9b64 Delete type=0 #24
-2015/01/12-13:13:23.642 9b64 Compacting 1@1 + 1@2 files
-2015/01/12-13:13:23.780 9b64 Generated table #29: 318 keys, 1912648 bytes
-2015/01/12-13:13:23.780 9b64 Compacted 1@1 + 1@2 files => 1912648 bytes
-2015/01/12-13:13:23.798 9b64 Delete type=2 #26
-2015/01/12-13:13:23.799 9b64 Delete type=2 #28
-2015/01/12-13:13:23.799 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/12-13:25:18.395 9b64 Level-0 table #31: started
-2015/01/12-13:25:18.625 9b64 Level-0 table #31: 2760969 bytes OK
-2015/01/12-13:25:18.681 9b64 Delete type=0 #27
-2015/01/12-14:56:24.287 9b64 Compacting 1@1 + 1@2 files
-2015/01/12-14:56:24.398 9b64 Generated table #32: 320 keys, 1916115 bytes
-2015/01/12-14:56:24.398 9b64 Compacted 1@1 + 1@2 files => 1916115 bytes
-2015/01/12-14:56:24.420 9b64 Delete type=2 #29
-2015/01/12-14:56:24.421 9b64 Delete type=2 #31
-2015/01/12-14:56:24.421 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/12-17:34:32.947 9b64 Level-0 table #34: started
-2015/01/12-17:34:33.119 9b64 Level-0 table #34: 2767931 bytes OK
-2015/01/12-17:34:33.139 9b64 Delete type=0 #30
-2015/01/12-17:40:16.534 9b64 Compacting 1@1 + 1@2 files
-2015/01/12-17:40:16.699 9b64 Generated table #35: 319 keys, 1915383 bytes
-2015/01/12-17:40:16.699 9b64 Compacted 1@1 + 1@2 files => 1915383 bytes
-2015/01/12-17:40:16.722 9b64 Delete type=2 #32
-2015/01/12-17:40:16.722 9b64 Delete type=2 #34
-2015/01/12-17:40:16.723 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/12-18:04:33.688 9b64 Level-0 table #37: started
-2015/01/12-18:04:33.848 9b64 Level-0 table #37: 2316196 bytes OK
-2015/01/12-18:04:33.872 9b64 Delete type=0 #33
-2015/01/12-18:04:52.094 9b64 Compacting 1@1 + 1@2 files
-2015/01/12-18:04:52.184 9b64 Generated table #38: 310 keys, 1915254 bytes
-2015/01/12-18:04:52.184 9b64 Compacted 1@1 + 1@2 files => 1915254 bytes
-2015/01/12-18:04:52.204 9b64 Delete type=2 #35
-2015/01/12-18:04:52.204 9b64 Delete type=2 #37
-2015/01/12-18:04:52.205 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/12-18:12:22.135 9b64 Level-0 table #40: started
-2015/01/12-18:12:22.329 9b64 Level-0 table #40: 2986646 bytes OK
-2015/01/12-18:12:22.359 9b64 Delete type=0 #36
-2015/01/12-18:12:30.053 9b64 Compacting 1@1 + 1@2 files
-2015/01/12-18:12:30.162 9b64 Generated table #41: 296 keys, 1923535 bytes
-2015/01/12-18:12:30.162 9b64 Compacted 1@1 + 1@2 files => 1923535 bytes
-2015/01/12-18:12:30.195 9b64 Delete type=2 #38
-2015/01/12-18:12:30.195 9b64 Delete type=2 #40
-2015/01/12-18:12:30.196 9b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2015/01/12-18:35:37.444 9b64 Level-0 table #43: started
-2015/01/12-18:35:37.608 9b64 Level-0 table #43: 2541666 bytes OK
-2015/01/12-18:35:37.630 9b64 Delete type=0 #39
+2015/01/12-18:42:23.155 4cbc Recovering log #42
+2015/01/12-18:42:23.156 4cbc Level-0 table #45: started
+2015/01/12-18:42:23.218 4cbc Level-0 table #45: 112175 bytes OK
+2015/01/12-18:42:23.268 4cbc Delete type=0 #42
+2015/01/12-18:42:23.268 4cbc Delete type=3 #2
+2015/01/12-18:52:52.861 6934 Compacting 1@0 + 1@1 files
+2015/01/12-18:52:52.914 6934 Generated table #47: 210 keys, 247904 bytes
+2015/01/12-18:52:52.914 6934 Compacted 1@0 + 1@1 files => 247904 bytes
+2015/01/12-18:52:52.935 6934 Delete type=2 #43
+2015/01/12-18:52:52.936 6934 Delete type=2 #45
+2015/01/12-18:52:52.936 6934 compacted to: files[ 0 1 1 0 0 0 0 ]
+2015/01/12-18:54:14.030 6934 Compacting 1@1 + 1@2 files
+2015/01/12-18:54:14.116 6934 Generated table #48: 313 keys, 1922263 bytes
+2015/01/12-18:54:14.116 6934 Compacted 1@1 + 1@2 files => 1922263 bytes
+2015/01/12-18:54:14.146 6934 Delete type=2 #41
+2015/01/12-18:54:14.147 6934 Delete type=2 #47
+2015/01/12-18:54:14.147 6934 compacted to: files[ 0 0 1 0 0 0 0 ]
+2015/01/12-18:54:48.248 6934 Level-0 table #50: started
+2015/01/12-18:54:48.380 6934 Level-0 table #50: 3930722 bytes OK
+2015/01/12-18:54:48.403 6934 Delete type=0 #46
+2015/01/12-18:57:41.588 6934 Compacting 1@1 + 1@2 files
+2015/01/12-18:57:41.699 6934 Generated table #51: 301 keys, 1916953 bytes
+2015/01/12-18:57:41.699 6934 Compacted 1@1 + 1@2 files => 1916953 bytes
+2015/01/12-18:57:41.714 6934 Delete type=2 #48
+2015/01/12-18:57:41.714 6934 Delete type=2 #50
+2015/01/12-18:57:41.715 6934 compacted to: files[ 0 0 1 0 0 0 0 ]

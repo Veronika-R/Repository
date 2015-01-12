@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using Checkers.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Checkers.Test

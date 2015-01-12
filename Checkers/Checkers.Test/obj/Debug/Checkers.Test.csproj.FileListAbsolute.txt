@@ -5,3 +5,10 @@ E:\oldVersion\New folder\Checkers\Checkers.Test\bin\Debug\Checkers.dll
 E:\oldVersion\New folder\Checkers\Checkers.Test\bin\Debug\Checkers.pdb
 E:\oldVersion\New folder\Checkers\Checkers.Test\obj\Debug\Checkers.Test.dll
 E:\oldVersion\New folder\Checkers\Checkers.Test\obj\Debug\Checkers.Test.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\obj\Debug\Checkers.Test.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\obj\Debug\Checkers.Test.dll
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\obj\Debug\Checkers.Test.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\bin\Debug\Checkers.Test.dll
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\bin\Debug\Checkers.Test.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\bin\Debug\Checkers.Model.dll
+E:\Dev\GitHub\Repository\Checkers\Checkers.Test\bin\Debug\Checkers.Model.pdb

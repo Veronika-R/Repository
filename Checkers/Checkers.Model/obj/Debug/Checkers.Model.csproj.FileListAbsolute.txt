@@ -1,0 +1,10 @@
+E:\oldVersion\New folder\Checkers\Checkers\bin\Debug\Checkers.dll
+E:\oldVersion\New folder\Checkers\Checkers\bin\Debug\Checkers.pdb
+E:\oldVersion\New folder\Checkers\Checkers\obj\Debug\Checkers.Model.csprojResolveAssemblyReference.cache
+E:\oldVersion\New folder\Checkers\Checkers\obj\Debug\Checkers.dll
+E:\oldVersion\New folder\Checkers\Checkers\obj\Debug\Checkers.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers.Model\bin\Debug\Checkers.Model.dll
+E:\Dev\GitHub\Repository\Checkers\Checkers.Model\bin\Debug\Checkers.Model.pdb
+E:\Dev\GitHub\Repository\Checkers\Checkers.Model\obj\Debug\Checkers.Model.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\Repository\Checkers\Checkers.Model\obj\Debug\Checkers.Model.dll
+E:\Dev\GitHub\Repository\Checkers\Checkers.Model\obj\Debug\Checkers.Model.pdb

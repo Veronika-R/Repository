@@ -57,7 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Checkers\Checkers.Model.csproj">
+    <ProjectReference Include="..\Checkers.Model\Checkers.Model.csproj">
       <Project>{F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB}</Project>
       <Name>Checkers.Model</Name>
     </ProjectReference>
