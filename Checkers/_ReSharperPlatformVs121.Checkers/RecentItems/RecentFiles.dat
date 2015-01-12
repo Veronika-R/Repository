@@ -1,0 +1,49 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Color.cs" caret="205" fromTop="11" />
+    <File id="7D255BC3-54CF-418D-979F-C8D2BB648A42/f:Program.cs" caret="1117" fromTop="23" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Game.cs" caret="1552" fromTop="0" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:CheckersException.cs" caret="191" fromTop="10" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:SequentialPosition.cs" caret="998" fromTop="16" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:IPiece.cs" caret="223" fromTop="10" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Position.cs" caret="617" fromTop="27" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:MovePosition.cs" caret="390" fromTop="20" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Piece.cs" caret="1125" fromTop="20" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="107" fromTop="5" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceParserTest.cs" caret="2455" fromTop="15" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PositionTest.cs" caret="2450" fromTop="45" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:GameTest.cs" caret="274" fromTop="13" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="1124" fromTop="21" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="1293" fromTop="26" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:SequentialPosition.cs" caret="245" fromTop="17" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:SequentialPosition.cs" caret="245" fromTop="11" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:SequentialPosition.cs" caret="998" fromTop="37" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:SequentialPosition.cs" caret="48" fromTop="2" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:SequentialPosition.cs" caret="999" fromTop="16" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Piece.cs" caret="643" fromTop="18" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:IPiece.cs" caret="223" fromTop="10" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Piece.cs" caret="900" fromTop="15" />
+    <File id="F1AC6BE4-66FC-4379-B10A-A6DBC0FBABFB/f:Piece.cs" caret="1125" fromTop="20" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="1075" fromTop="25" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="668" fromTop="14" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="2099" fromTop="27" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="2794" fromTop="24" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="2448" fromTop="24" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="1582" fromTop="24" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="12" fromTop="0" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="8905" fromTop="19" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="300" fromTop="17" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceMovesTest.cs" caret="107" fromTop="5" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceParserTest.cs" caret="1172" fromTop="16" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceParserTest.cs" caret="2009" fromTop="17" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceParserTest.cs" caret="2237" fromTop="23" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PieceParserTest.cs" caret="2455" fromTop="23" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PositionTest.cs" caret="1289" fromTop="23" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PositionTest.cs" caret="2110" fromTop="33" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PositionTest.cs" caret="1895" fromTop="25" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:PositionTest.cs" caret="2450" fromTop="35" />
+    <File id="9E4E033F-F66C-4C20-98D3-11007D676DA1/f:GameTest.cs" caret="950" fromTop="12" />
+  </RecentEdits>
+</RecentFiles>
